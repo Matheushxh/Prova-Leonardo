@@ -1,0 +1,6 @@
+Programação Orientada a objetos
+
+Toda representação do mundo real, terá como plano de fundu um border_color
+Iremos chamar este modelo de classes e com base nessas classes iremos contruir objetos
+
+Orientação a objetos um paradigma utilizado por as linguagens comerciais atuais
